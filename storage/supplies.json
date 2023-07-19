@@ -1,0 +1,32 @@
+{
+    "slug": "supplies",
+    "name": "supplies",
+    "archived": false,
+    "items": [
+        {
+            "id": 1,
+            "name": "tent",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "name": "chairs",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "name": "lights",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "name": "blankets",
+            "completed": false
+        },
+        {
+            "id": 5,
+            "name": "back up battery",
+            "completed": false
+        }
+    ]
+}

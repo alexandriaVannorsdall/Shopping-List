@@ -1,0 +1,27 @@
+{
+    "slug": "my-groceries",
+    "name": "my",
+    "archived": false,
+    "items": [
+        {
+            "id": 1,
+            "name": "bananas",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "name": "pears",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "name": "peas",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "name": "coconuts",
+            "completed": false
+        }
+    ]
+}

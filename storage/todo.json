@@ -1,0 +1,27 @@
+{
+    "slug": "todo",
+    "name": "todo",
+    "archived": true,
+    "items": [
+        {
+            "id": 1,
+            "name": "wash car",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "name": "wash dishes",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "name": "pay bills",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "name": "organize clothes",
+            "completed": false
+        }
+    ]
+}

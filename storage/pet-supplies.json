@@ -1,0 +1,37 @@
+{
+    "slug": "pet-supplies",
+    "name": "Pet",
+    "archived": false,
+    "items": [
+        {
+            "id": 1,
+            "name": "food",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "name": "sand",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "name": "treats",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "name": "wheel",
+            "completed": false
+        },
+        {
+            "id": 5,
+            "name": "stick",
+            "completed": false
+        },
+        {
+            "id": 6,
+            "name": "tennis ball",
+            "completed": false
+        }
+    ]
+}
